@@ -54,7 +54,7 @@ export default function Footer() {
             <h5 className='footer_title'>Newsletter</h5>
             <p>Subscribe our newsletter</p>
             <div className="newsletter">
-              <input type="email" name="email" id="email" placeholder='Enter Your Email'/>
+              <input type="email" name="email" id="email" placeholder='Enter Your Email' />
               <span><i className="ri-send-plane-line"></i></span>
             </div>
           </Col>
@@ -62,7 +62,7 @@ export default function Footer() {
 
         <Row className='mt-5'>
           <Col lg='6' md='6'>
-            <p className='copyright_text fw-bold'>Copyright - 2024, Website made by JeelPadsala. All Rights Reserved.</p>
+            <p className='copyright_text fw-bold'>Copyright - 2024, Website made by HitenVekariya. All Rights Reserved.</p>
           </Col>
           <Col lg='6' md='6'>
             <div className="social_links d-flex align-items-center gap-4 justify-content-end ">
